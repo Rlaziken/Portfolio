@@ -55,11 +55,12 @@ a:hover {
     margin: 0%;
     display: inline-flexbox;
     margin-bottom: 50px;
-    background-color:yellow;
+    
 }
 
 .Home {
-    background-color: #595959; 
+    background-color: #595959;
+    background-color: yellow;
 }
 
 .Projects {
