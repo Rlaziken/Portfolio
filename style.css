@@ -48,22 +48,22 @@ a:hover {
     color: red;
 }
 /*Navbar*/
-.Home {
-    height:350px;
-    justify-content: center;
-    background-color: #595959; 
-    margin: 0%;
-    display: inline-flexbox;
-}
-.Projects {
+
+.section {
     height:400px;
-    background-color: #797979;
+    justify-content: center;
     margin: 0%;
     display: inline-flexbox;
 }
+
+.Home {
+    background-color: #595959; 
+}
+
+.Projects {
+    background-color: #797979;
+}
+
 .Contact {
-    height:150px;
     background-color: #121212;
-    margin: 0%;
-    display: inline-flexbox;
 }
