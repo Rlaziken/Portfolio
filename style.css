@@ -61,9 +61,9 @@ a:hover {
     margin: 0%;
     display: inline-flexbox;
 }
-.Contacts {
-    height:70px;
-    background: #121212;
+.Contact {
+    height:150px;
+    background-color: #121212;
     margin: 0%;
     display: inline-flexbox;
 }
