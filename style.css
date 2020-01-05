@@ -54,13 +54,10 @@ a:hover {
     justify-content: center;
     margin: 0%;
     display: inline-flexbox;
-    margin-bottom: 50px;
-    
 }
 
 .Home {
     background-color: #595959;
-    background-color: yellow;
 }
 
 .Projects {
