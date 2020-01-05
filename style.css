@@ -1,4 +1,4 @@
-/*Navbar*/
+/* Start Navbar*/
 body,html {
     margin: 0;
     padding: 0;
@@ -47,7 +47,7 @@ a:hover {
     transition: 0.5s;
     color: red;
 }
-/*Navbar*/
+/*End Navbar*/
 
 .section {
     height:400px;
